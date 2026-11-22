@@ -1,42 +1,39 @@
-# Hola, soy Alberth
+# Alberth Quiroga
 
-Estudio Ingeniería de Sistemas en UNIMINUTO. Empecé en 2026 y estoy aprendiendo poco a poco. Uso este GitHub para guardar mis proyectos, practicar y tener un registro de lo que voy haciendo.
+**Estudiante de Ingeniería de Sistemas · Colombia**
 
-Me interesa entender cómo funcionan las aplicaciones, trabajar con bases de datos y crear cosas que puedan servirle a alguien.
+Me gusta aprender cómo funcionan las aplicaciones y llevar las ideas a proyectos que se puedan probar y mejorar. Actualmente estudio Ingeniería de Sistemas en UNIMINUTO y trabajo en proyectos propios mientras fortalezco mis bases de programación, bases de datos y desarrollo web.
 
-## En qué he trabajado
+Estoy buscando mi primera oportunidad en tecnología, especialmente en soporte técnico, pruebas de software, desarrollo web inicial o tareas relacionadas con datos.
 
-**AUTOPROOF**  
-Es un proyecto personal relacionado con herramientas para agentes de inteligencia artificial. Trabajar en él me ha acercado a temas como el funcionamiento de una aplicación web, las pruebas, la organización de funciones y la puesta en marcha de un producto.
+## Proyectos
 
-[Ver AUTOPROOF](https://autoproof.alberthquiro.workers.dev/)
+| Proyecto | Qué es | Enlaces |
+| --- | --- | --- |
+| **AUTOPROOF** | Proyecto SaaS B2B para revisar conversaciones de agentes de IA con reglas configurables y generar informes de auditoría. El producto tiene sitio público; su repositorio de código es privado. | [Visitar AUTOPROOF](https://autoproofsaas.pages.dev/) |
+| **FocusBoard Lite** | Gestor de tareas hecho con HTML, CSS y JavaScript. Permite organizar prioridades y guarda las tareas en el navegador. Incluye pruebas de la lógica. | [Código y documentación](https://github.com/AlberthQS/focusboard-lite) |
+| **Portafolio web** | Sitio personal adaptable a móvil, con contenido en español e inglés y enlaces a mis proyectos. | [Ver código](https://github.com/AlberthQS/portfolio-web) |
 
-**Trabajos de la universidad**  
-He hecho ejercicios de lógica, algoritmos y bases de datos con MySQL. También he practicado con tablas, consultas y ejercicios de inventarios.
+## Tecnologías que practico
 
-## Qué puedo aportar mientras sigo aprendiendo
+`HTML` · `CSS` · `JavaScript` · `SQL` · `MySQL` · `Git` · `GitHub`
 
-No he trabajado formalmente en tecnología, pero me gustaría empezar ayudando con tareas concretas como estas:
+También estoy aprendiendo a documentar proyectos, probar funciones, encontrar errores y trabajar con herramientas de despliegue.
 
-- Probar una página o aplicación y explicar qué funciona y qué errores encuentro.
-- Organizar información en bases de datos y trabajar con consultas sencillas en SQL.
-- Hacer cambios básicos en páginas web, con orientación cuando haga falta.
-- Documentar pasos, pruebas y soluciones para que otras personas puedan entenderlas.
-- Apoyar con configuración de programas, herramientas y problemas informáticos básicos.
-- Ayudar a organizar tareas, información o procesos que se puedan mejorar con tecnología.
+## Qué puedo aportar
 
-No digo que lo sepa todo. Si algo no lo conozco, prefiero investigarlo, intentarlo y preguntar antes que inventar una respuesta.
+- Probar aplicaciones web y documentar errores de forma clara.
+- Apoyar consultas y organización básica de datos en SQL.
+- Realizar ajustes sencillos de páginas web y documentar los cambios.
+- Investigar problemas técnicos y seguir procedimientos de soporte.
+- Aprender nuevas herramientas y trabajar con orientación y retroalimentación.
 
-## Lo que estoy aprendiendo
+## Contacto
 
-- Lógica de programación y fundamentos de desarrollo web
-- SQL y MySQL
-- Git y GitHub
-- Pruebas y solución de errores
-- Cómo organizar y mejorar proyectos de software
+- [LinkedIn](https://www.linkedin.com/in/alberth-quiroga-quiroga-silva-31929336b/)
+- [GitHub](https://github.com/AlberthQS)
+- [AUTOPROOF](https://autoproofsaas.pages.dev/)
 
-## Qué busco
+---
 
-Quiero conseguir mi primera oportunidad en tecnología, ya sea apoyando en un proyecto, en prácticas, soporte, pruebas o tareas de desarrollo básicas. Me interesa un lugar donde pueda aportar desde el inicio y aprender de personas con más experiencia.
-
-Soy de Colombia. Hablo español y mi inglés todavía es básico.
+*English:* Systems Engineering student from Colombia, building practical web projects and learning SQL, JavaScript and software testing. Open to entry-level opportunities and collaboration. 
